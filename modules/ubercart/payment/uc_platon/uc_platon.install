@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @file
+ * Install file for platon.module.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+function uc_platon_uninstall() {
+  db_query("DELETE FROM {variable} WHERE name LIKE 'uc_platon_%%'");
+}

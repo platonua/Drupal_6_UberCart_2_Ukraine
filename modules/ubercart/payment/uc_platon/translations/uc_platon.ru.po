@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+
+"Project-Id-Version: Platon\n"
+"POT-Creation-Date: 2013-09-23 21:37+0400\n"
+"PO-Revision-Date: 2013-09-23 22:01+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Paid by Platon, external order ID: !order"
+msgstr "Оплачено через Platon, ID заказа: !order"
+
+msgid "Payment from Platon was received"
+msgstr "Получен платеж Platon"
+
+msgid "Payment was refunded"
+msgstr "Платеж был возвращен"
+
+msgid "Platon"
+msgstr "Platon"
+
+msgid "Wrong order !order_id."
+msgstr "Неправильный заказ !order_id."
+
+msgid "Bad signature for order !order_id."
+msgstr "Неправильная подпись у заказа !order_id."
+
+msgid "Payment for order !order_id complete."
+msgstr "Платеж для заказа !order_id закрыт."
+
+msgid "Payment for order !order_id refunded."
+msgstr "Платеж для заказа !order_id возвращен."
+
+msgid "Redirect to Platon to pay by credit card."
+msgstr "Перенаправление на сайт платежной системы Platon для оплаты кредитной картой."
+
+msgid "Client Key"
+msgstr "Client Key"
+
+msgid "Client Key from Platon"
+msgstr "Client Key, полученный в системе Platon"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password for order verification."
+msgstr "Пароль для верификации заказа"
+
+msgid "Gateway URL"
+msgstr "URL шлюза"
+
+msgid "Gateway URL, change only if it required"
+msgstr "URL шлюза, меняйте только при необходимости"
+
+msgid "Credit card processing on a secure server:"
+msgstr "Покупка с помощью кредитных карт на безопасном сервере"
+
+msgid "Order from "
+msgstr "Заказ от "
+
+msgid "Processes payment using Platon Gateway"
+msgstr "Обработка платежей через платежную систему Platon"
